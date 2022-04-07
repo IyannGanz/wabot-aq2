@@ -20,7 +20,7 @@ runtime = process.uptime()
 teks = `${kyun(runtime)}`
 run = `${kyun(runtime)}`
 
-global.owner = ['505']// Put your number here
+global.owner = ['6285742344873']// Put your number here
 
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
@@ -71,35 +71,35 @@ global.ig = `https://instagram.com/the.sad.boy01` //UBAH JADI LINK IG LU
 
 //donasi
 global.donate = `
-®q©§°∏  Donasi ? Pulsa °π
-©¿? tre [0857 4234 4873]
-®t©§©§©§©§
+ÁßÄÂ≤∏‚òÜ  Donasi ? Pulsa ‚òÖ
+Âøµ? tre [0857 4234 4873]
+Á≥ªÂ≤∏Â≤∏Â≤∏Â≤∏
 
-®q©§°∏  Donasi ? Non Pulsa °π
-©¿? Gopay [0857 4234 4873]
-©¿? saweria [https://saweria.co/JulianKastaraaa09]
-®t©§©§©§©§
+ÁßÄÂ≤∏‚òÜ  Donasi ? Non Pulsa ‚òÖ
+Âøµ? Gopay [0857 4234 4873]
+Âøµ? saweria [https://saweria.co/JulianKastaraaa09]
+Á≥ªÂ≤∏Â≤∏Â≤∏Â≤∏
 
-®q©§°∏  Hubungi °π
-©¿? Ingin donasi? Wa.me/6285742344873
-®t©§©§©§©§` //UBAH JADI NOMER DAN LINK SAWERIA MU
+ÁßÄÂ≤∏‚òÜ  Hubungi ‚òÖ
+Âøµ? Ingin donasi? Wa.me/6285742344873
+Á≥ªÂ≤∏Â≤∏Â≤∏Â≤∏` //UBAH JADI NOMER DAN LINK SAWERIA MU
 
 //Rules bot
 global.rules = `
-®q©§ *°∏ RULES BOT°π*
-©¶
-©¿? DILARANG TOXIC
-©¿? DILARANG SPAM COMMAND BOT
-©¿? DILARANG KIRIM VIRTEX
-©¿? DILARANG KIRIM 18+ APAPUN ITU
-©¿? DILARANG TELPON / VC KEBOT
-©¿? DILARANG CULIK BOT KE GRUP
-©¿? DILARANG PROMOSI KE BOT
-©¿? BOT TIDAK MENERIMA SAVE KONTAK
-©¶
-©¿? KALO MELANGGAR AKAN LANGSUNG DIBAN DAN DI BLOKIR TANPA TOLERANSI SEDIKIT PUN
-©¶
-©∏©§ *°∏ RULES BOT°π*` //Ubah jadi semau mu
+ÁßÄÂ≤∏ *‚òÜ RULES BOT‚òÖ*
+Â≤´
+Âøµ? DILARANG TOXIC
+Âøµ? DILARANG SPAM COMMAND BOT
+Âøµ? DILARANG KIRIM VIRTEX
+Âøµ? DILARANG KIRIM 18+ APAPUN ITU
+Âøµ? DILARANG TELPON / VC KEBOT
+Âøµ? DILARANG CULIK BOT KE GRUP
+Âøµ? DILARANG PROMOSI KE BOT
+Âøµ? BOT TIDAK MENERIMA SAVE KONTAK
+Â≤´
+Âøµ? KALO MELANGGAR AKAN LANGSUNG DIBAN DAN DI BLOKIR TANPA TOLERANSI SEDIKIT PUN
+Â≤´
+Âº©Â≤∏ *‚òÜ RULES BOT‚òÖ*` //Ubah jadi semau mu
 
 // Sticker WM
 global.wm = '? Tohka Yatogami' //UBAH JADI NAMAMU
@@ -163,6 +163,6 @@ global.wait = 'Tunggu Sebentar'
 bc = 'Tohka Yatogami'
 titler = 'TOHKA YATOGAMI BOT'
 body = run
-kasihcaption = `§¢${namaig}\n\n§¢${namagithub}`
+kasihcaption = `‰∏ê${namaig}\n\n‰∏ê${namagithub}`
 gambar1 = tum1
 gambar2 = tum2
